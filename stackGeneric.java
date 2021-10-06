@@ -44,12 +44,4 @@ public class stackGeneric <G> {
          }
      }
      
-     /**public G peek(){
-         if(!isEmpty()){
-             return data[top-1];
-         } else {
-             return null;
-         }
-     }**/
-    
 }
